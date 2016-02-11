@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EBA3B92D1C552A9D0036909E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA3B92C1C552A9D0036909E /* AppDelegate.swift */; };
-		EBA3B92F1C552A9D0036909E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA3B92E1C552A9D0036909E /* ViewController.swift */; };
-		EBA3B9321C552A9D0036909E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBA3B9301C552A9D0036909E /* Main.storyboard */; };
-		EBA3B9341C552A9D0036909E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBA3B9331C552A9D0036909E /* Assets.xcassets */; };
-		EBA3B9371C552A9D0036909E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBA3B9351C552A9D0036909E /* LaunchScreen.storyboard */; };
+		E7FC8B071C6C6439000FD3E3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7FC8B061C6C6439000FD3E3 /* AppDelegate.swift */; };
+		E7FC8B091C6C6439000FD3E3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7FC8B081C6C6439000FD3E3 /* ViewController.swift */; };
+		E7FC8B0C1C6C6439000FD3E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7FC8B0A1C6C6439000FD3E3 /* Main.storyboard */; };
+		E7FC8B0E1C6C6439000FD3E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7FC8B0D1C6C6439000FD3E3 /* Assets.xcassets */; };
+		E7FC8B111C6C6439000FD3E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7FC8B0F1C6C6439000FD3E3 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EBA3B9291C552A9D0036909E /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		EBA3B92C1C552A9D0036909E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		EBA3B92E1C552A9D0036909E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		EBA3B9311C552A9D0036909E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EBA3B9331C552A9D0036909E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		EBA3B9361C552A9D0036909E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		EBA3B9381C552A9D0036909E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7FC8B031C6C6439000FD3E3 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7FC8B061C6C6439000FD3E3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E7FC8B081C6C6439000FD3E3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E7FC8B0B1C6C6439000FD3E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E7FC8B0D1C6C6439000FD3E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E7FC8B101C6C6439000FD3E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E7FC8B121C6C6439000FD3E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		EBA3B9261C552A9D0036909E /* Frameworks */ = {
+		E7FC8B001C6C6439000FD3E3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,53 +35,45 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		EBA3B9201C552A9D0036909E = {
+		E7FC8AFA1C6C6439000FD3E3 = {
 			isa = PBXGroup;
 			children = (
-				EBA3B92B1C552A9D0036909E /* Calculator */,
-				EBA3B92A1C552A9D0036909E /* Products */,
+				E7FC8B051C6C6439000FD3E3 /* Calculator */,
+				E7FC8B041C6C6439000FD3E3 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		EBA3B92A1C552A9D0036909E /* Products */ = {
+		E7FC8B041C6C6439000FD3E3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EBA3B9291C552A9D0036909E /* Calculator.app */,
+				E7FC8B031C6C6439000FD3E3 /* Calculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EBA3B92B1C552A9D0036909E /* Calculator */ = {
+		E7FC8B051C6C6439000FD3E3 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				EBA3B92E1C552A9D0036909E /* ViewController.swift */,
-				EBA3B9301C552A9D0036909E /* Main.storyboard */,
-				EBA3B93E1C552B140036909E /* Supporting files */,
+				E7FC8B061C6C6439000FD3E3 /* AppDelegate.swift */,
+				E7FC8B081C6C6439000FD3E3 /* ViewController.swift */,
+				E7FC8B0A1C6C6439000FD3E3 /* Main.storyboard */,
+				E7FC8B0D1C6C6439000FD3E3 /* Assets.xcassets */,
+				E7FC8B0F1C6C6439000FD3E3 /* LaunchScreen.storyboard */,
+				E7FC8B121C6C6439000FD3E3 /* Info.plist */,
 			);
 			path = Calculator;
-			sourceTree = "<group>";
-		};
-		EBA3B93E1C552B140036909E /* Supporting files */ = {
-			isa = PBXGroup;
-			children = (
-				EBA3B92C1C552A9D0036909E /* AppDelegate.swift */,
-				EBA3B9331C552A9D0036909E /* Assets.xcassets */,
-				EBA3B9351C552A9D0036909E /* LaunchScreen.storyboard */,
-				EBA3B9381C552A9D0036909E /* Info.plist */,
-			);
-			name = "Supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EBA3B9281C552A9D0036909E /* Calculator */ = {
+		E7FC8B021C6C6439000FD3E3 /* Calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EBA3B93B1C552A9D0036909E /* Build configuration list for PBXNativeTarget "Calculator" */;
+			buildConfigurationList = E7FC8B151C6C6439000FD3E3 /* Build configuration list for PBXNativeTarget "Calculator" */;
 			buildPhases = (
-				EBA3B9251C552A9D0036909E /* Sources */,
-				EBA3B9261C552A9D0036909E /* Frameworks */,
-				EBA3B9271C552A9D0036909E /* Resources */,
+				E7FC8AFF1C6C6439000FD3E3 /* Sources */,
+				E7FC8B001C6C6439000FD3E3 /* Frameworks */,
+				E7FC8B011C6C6439000FD3E3 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -89,26 +81,25 @@
 			);
 			name = Calculator;
 			productName = Calculator;
-			productReference = EBA3B9291C552A9D0036909E /* Calculator.app */;
+			productReference = E7FC8B031C6C6439000FD3E3 /* Calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		EBA3B9211C552A9D0036909E /* Project object */ = {
+		E7FC8AFB1C6C6439000FD3E3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = Andrei_Chernyshou;
+				ORGANIZATIONNAME = Epam.com;
 				TargetAttributes = {
-					EBA3B9281C552A9D0036909E = {
-						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = 6ZKC3V95DT;
+					E7FC8B021C6C6439000FD3E3 = {
+						CreatedOnToolsVersion = 7.2.1;
 					};
 				};
 			};
-			buildConfigurationList = EBA3B9241C552A9D0036909E /* Build configuration list for PBXProject "Calculator" */;
+			buildConfigurationList = E7FC8AFE1C6C6439000FD3E3 /* Build configuration list for PBXProject "Calculator" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -116,54 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = EBA3B9201C552A9D0036909E;
-			productRefGroup = EBA3B92A1C552A9D0036909E /* Products */;
+			mainGroup = E7FC8AFA1C6C6439000FD3E3;
+			productRefGroup = E7FC8B041C6C6439000FD3E3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EBA3B9281C552A9D0036909E /* Calculator */,
+				E7FC8B021C6C6439000FD3E3 /* Calculator */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		EBA3B9271C552A9D0036909E /* Resources */ = {
+		E7FC8B011C6C6439000FD3E3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EBA3B9371C552A9D0036909E /* LaunchScreen.storyboard in Resources */,
-				EBA3B9341C552A9D0036909E /* Assets.xcassets in Resources */,
-				EBA3B9321C552A9D0036909E /* Main.storyboard in Resources */,
+				E7FC8B111C6C6439000FD3E3 /* LaunchScreen.storyboard in Resources */,
+				E7FC8B0E1C6C6439000FD3E3 /* Assets.xcassets in Resources */,
+				E7FC8B0C1C6C6439000FD3E3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		EBA3B9251C552A9D0036909E /* Sources */ = {
+		E7FC8AFF1C6C6439000FD3E3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EBA3B92F1C552A9D0036909E /* ViewController.swift in Sources */,
-				EBA3B92D1C552A9D0036909E /* AppDelegate.swift in Sources */,
+				E7FC8B091C6C6439000FD3E3 /* ViewController.swift in Sources */,
+				E7FC8B071C6C6439000FD3E3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		EBA3B9301C552A9D0036909E /* Main.storyboard */ = {
+		E7FC8B0A1C6C6439000FD3E3 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				EBA3B9311C552A9D0036909E /* Base */,
+				E7FC8B0B1C6C6439000FD3E3 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		EBA3B9351C552A9D0036909E /* LaunchScreen.storyboard */ = {
+		E7FC8B0F1C6C6439000FD3E3 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				EBA3B9361C552A9D0036909E /* Base */,
+				E7FC8B101C6C6439000FD3E3 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -171,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		EBA3B9391C552A9D0036909E /* Debug */ = {
+		E7FC8B131C6C6439000FD3E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -216,7 +207,7 @@
 			};
 			name = Debug;
 		};
-		EBA3B93A1C552A9D0036909E /* Release */ = {
+		E7FC8B141C6C6439000FD3E3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -254,24 +245,24 @@
 			};
 			name = Release;
 		};
-		EBA3B93C1C552A9D0036909E /* Debug */ = {
+		E7FC8B161C6C6439000FD3E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Che.Calculator;
+				PRODUCT_BUNDLE_IDENTIFIER = unify.Calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		EBA3B93D1C552A9D0036909E /* Release */ = {
+		E7FC8B171C6C6439000FD3E3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Che.Calculator;
+				PRODUCT_BUNDLE_IDENTIFIER = unify.Calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -279,24 +270,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EBA3B9241C552A9D0036909E /* Build configuration list for PBXProject "Calculator" */ = {
+		E7FC8AFE1C6C6439000FD3E3 /* Build configuration list for PBXProject "Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EBA3B9391C552A9D0036909E /* Debug */,
-				EBA3B93A1C552A9D0036909E /* Release */,
+				E7FC8B131C6C6439000FD3E3 /* Debug */,
+				E7FC8B141C6C6439000FD3E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EBA3B93B1C552A9D0036909E /* Build configuration list for PBXNativeTarget "Calculator" */ = {
+		E7FC8B151C6C6439000FD3E3 /* Build configuration list for PBXNativeTarget "Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EBA3B93C1C552A9D0036909E /* Debug */,
-				EBA3B93D1C552A9D0036909E /* Release */,
+				E7FC8B161C6C6439000FD3E3 /* Debug */,
+				E7FC8B171C6C6439000FD3E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = EBA3B9211C552A9D0036909E /* Project object */;
+	rootObject = E7FC8AFB1C6C6439000FD3E3 /* Project object */;
 }

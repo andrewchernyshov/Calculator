@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by Andrew Chernyhov on 24.01.16.
-//  Copyright © 2016 Andrei_Chernyshou. All rights reserved.
+//  Created by Andrei Chernyshou on 2/11/16.
+//  Copyright © 2016 Epam.com. All rights reserved.
 //
 
 import UIKit
